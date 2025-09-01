@@ -1,21 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23359
-Fork on GitHub
-7934
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Sai Surve</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1>Hi 👋, I'm Sai Surve</h1>
+<h3>A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicodes64&label=Profile%20views&color=0e75b6&style=flat" alt="saicodes64" /> </p>
 
