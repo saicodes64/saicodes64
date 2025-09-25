@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sai.surve23@pcu.edu.in**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1zyqB8S0S9z40dpom2csE1M8LHmE0WAPk/)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/182Ueo_fVMm7etG8u-1UM1YCG1s-lDgMr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
