@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 📫 How to reach me **sai.surve23@pcu.edu.in**
+- 📫 How to reach me **saisurveit@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/182Ueo_fVMm7etG8u-1UM1YCG1s-lDgMr/view?usp=sharing)
 
