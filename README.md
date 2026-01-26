@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saisurveit@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/182Ueo_fVMm7etG8u-1UM1YCG1s-lDgMr/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SoNNqQGEpy8cXGdF3tzfNLX31PF5ZkDg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
